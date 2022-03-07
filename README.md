@@ -1,7 +1,7 @@
 ## 🤓 Olá, me chamo Caio Henrique !
-
-- ☕ Apaixonado por programação e estudando Java.
-- ⌨ Estou cursando **Ciências da Computação**.
+- São Paulo, SP; 25 Anos ; 5º Semestre;
+- ☕ Apaixonado por programação e estudando Java;
+- ⌨ Estou cursando **Ciências da Computação**;
 <div>
 <a href = "https://beacons.ai/caiohenrks" ><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
 <a href = "https://beacons.ai/caiohenrks" ><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
