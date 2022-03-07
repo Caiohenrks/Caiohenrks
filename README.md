@@ -1,6 +1,5 @@
 ## 🤓 Olá, me chamo Caio Henrique !
 
-- 💻 Atualmente trabalho como técnico em fibra óptica.         
 - ☕ Apaixonado por programação e estudando Java.
 - ⌨ Estou cursando **Ciências da Computação**.
 <div>
