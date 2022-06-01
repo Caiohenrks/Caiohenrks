@@ -2,7 +2,7 @@
 ## 🤓 Olá, me chamo Caio Henrique ! <br/>
 - 🌍 São Paulo, SP; 25 Anos; <br/>
 - ☕ Apaixonado por programação e estudando Java;<br/>
-- ⌨ Estou cursando **Ciências da Computação**, 5º Semestre;<br/>
+- ⌨ Estou cursando **Ciências da Computação**, 6º Semestre;<br/>
 
 ##
 
