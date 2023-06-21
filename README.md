@@ -14,10 +14,5 @@
 <a href = "https://beacons.ai/caiohenrks" ><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <br> 
 </div>
-<br>
 
-<a href="https://github.com/caiohenrks">
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiohenrks&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiohenrks&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
