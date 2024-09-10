@@ -1,8 +1,9 @@
 
 ## 🤓 Olá, me chamo Caio Henrique ! <br/>
-- 🌍 São Paulo, SP; 26 Anos; <br/>
+- 🌍 São Paulo, SP; 27 Anos; <br/>
 - ☕ Apaixonado por programação e estudando Java, Python e todas as tecnologias DevOps/SRE;<br/>
-- ⌨ Estou cursando **Ciências da Computação**, 8º Semestre;<br/>
+- ⌨ Formado em **Ciências da Computação** pela UNINOVE<br/>
+- ⌨ Cursando MBA em **DevOps & Reliability Engineering** pela FIAP<br/>
 
 ##
 
